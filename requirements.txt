@@ -1,0 +1,7 @@
+
+# requirements.txt
+polars
+pydantic
+lancedb
+polars
+fastapi
